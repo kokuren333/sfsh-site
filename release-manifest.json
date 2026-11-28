@@ -1,0 +1,784 @@
+{
+  "files": [
+    {
+      "path": ".nojekyll",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "404.html",
+      "sha256": "06cb9191114ba4241b14b4ae50831bf0b9b6f0f64d49933fe26b913710d70533"
+    },
+    {
+      "path": "about/index.html",
+      "sha256": "971e6e5319c25f6f4d4556a241c481cf8c43cbb462a491df4e3703f7ffb7dd49"
+    },
+    {
+      "path": "assets/client/filters.js",
+      "sha256": "4185307f5e8d94ac8555a3a8a02988dd49e80782ce72ee70dd7f1e5d1d3f9c0c"
+    },
+    {
+      "path": "assets/client/phase.js",
+      "sha256": "91664f3f15e59c4b1d828dc56bdc4e72e790c7a3a3ebb274621f54fdb7530146"
+    },
+    {
+      "path": "assets/client/search.js",
+      "sha256": "fcaa5bdae25e972b46d1e990db70182e5e887e188305f8dd137aa1895add55c0"
+    },
+    {
+      "path": "assets/client/sort.js",
+      "sha256": "aaecfb12f8f453f0bb75fd92173a7fb70b7a8ea585e8037d4ee37d1b9c8719c0"
+    },
+    {
+      "path": "assets/client/state.js",
+      "sha256": "f640a9d5c28292dec6c9977e216afd1b895a3e258fee991c35324837bf1a53a0"
+    },
+    {
+      "path": "assets/filter-core.js",
+      "sha256": "7cbe0076b8ccf3870a3c83a3a060ba04911088b4ffaeebc861ea4501196f7ac6"
+    },
+    {
+      "path": "assets/html.js",
+      "sha256": "b2b862836dad5ca41df2343479c4c0cd7da6b41f64bc17e184013accd67c0b2e"
+    },
+    {
+      "path": "assets/public-types.js",
+      "sha256": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+    },
+    {
+      "path": "assets/search-core.js",
+      "sha256": "efb03bf8ed35fa1012d7fbef48399ee36ed70d0a2d6e2b85ccc29535644f53a8"
+    },
+    {
+      "path": "assets/site.css",
+      "sha256": "3e999728e42f97aacb632a113dfd42755ee060fda69719e0a5d214ac8e428166"
+    },
+    {
+      "path": "catalog.json",
+      "sha256": "c4861ed7146b3505f685dc77f9235c372d7deb9e76dce121cf7aed8851450154"
+    },
+    {
+      "path": "creators/c0117ff36/index.html",
+      "sha256": "d0a02d32b22bb5fa5f05afb724d83de84956f9dcbdba2a1a7f89c4db7fb2320c"
+    },
+    {
+      "path": "creators/c06e35d6f/index.html",
+      "sha256": "15dfd9c8787282d3d23594e5bcb225bc01567031bb239547be80c9dd5c558011"
+    },
+    {
+      "path": "creators/c1d995f5e/index.html",
+      "sha256": "a724a50336a4b4c0cbdea2adb9370bbf5b4addff8170fd930bc7925a4f123f2a"
+    },
+    {
+      "path": "creators/c214c689f/index.html",
+      "sha256": "9d7dbdc1e7ca3c209b0146929214a4b0f4921481bdbed78ae734297bd6d47935"
+    },
+    {
+      "path": "creators/c2be7ab9b/index.html",
+      "sha256": "b3cdc6716af0bd67a394ee20056e9f64578d08324fb790bb30d54fbaabb33a58"
+    },
+    {
+      "path": "creators/c3745f431/index.html",
+      "sha256": "b19cd346c4945a7f5d0fb1e4e428fe6c776408c7f3ca7aa08e366be0815fbce0"
+    },
+    {
+      "path": "creators/c472f6059/index.html",
+      "sha256": "1b120b8abe5e626955b3e5802445641dd264ba994aa60c1093dfb08cc5960407"
+    },
+    {
+      "path": "creators/c8ae0866c/index.html",
+      "sha256": "5a9a2b844fb0028f1aabd1d0920c31ed75a651453fb19cef51ca81f1f73fe5e8"
+    },
+    {
+      "path": "creators/c9116f886/index.html",
+      "sha256": "2509652759b05740df070cef1d76d77ec2ec3a1343e44ae4529ca0a4cefa6389"
+    },
+    {
+      "path": "creators/c934b79a5/index.html",
+      "sha256": "cac25544e844005be72c95f5bf19297dcb653908d4cb4a33a6ca8e6887fc19a8"
+    },
+    {
+      "path": "creators/ca6d32c73/index.html",
+      "sha256": "c9a83b799158ddf6ddaa21741d24bdd346baa927a315c7708c429d921338ed81"
+    },
+    {
+      "path": "creators/cba2c65f6/index.html",
+      "sha256": "e682abd337587774677fa7a86bccaa6e7fe87a131f67371a3d7a775abb543c5f"
+    },
+    {
+      "path": "creators/cc20f272c/index.html",
+      "sha256": "d63a2cd783d8f1d7cfadd39234a8b2bfd6998ab8402e4dfaae26c3477ca3de1e"
+    },
+    {
+      "path": "creators/cc71d6675/index.html",
+      "sha256": "78d73261766825190964517cb70f8d6ae1a049c4f0ec9fe5f3eb6cdc63e2a2f5"
+    },
+    {
+      "path": "creators/cd3b19e58/index.html",
+      "sha256": "d5b30923e5e20315de73a0620d7a13c42f7094e2348898a9b3138c7aae365daf"
+    },
+    {
+      "path": "creators/cd7b72f6d/index.html",
+      "sha256": "36c04be04f6fcee7cb6a9bebab2ef772a6f6f94459e772bc219ecc688e8b3b89"
+    },
+    {
+      "path": "creators/cdc7f0998/index.html",
+      "sha256": "d98d00b419fb344f585e62f75a47d8b8183036057a1a768fe167a810e061a82c"
+    },
+    {
+      "path": "creators/cde7712f9/index.html",
+      "sha256": "2b4d0b9882c26dea34a1b036b60c26a98f1152b925a65a29484b15513ae99c23"
+    },
+    {
+      "path": "creators/cf1819017/index.html",
+      "sha256": "53f651dd96f99340895ef5d68fcaabdea87594d671195d5fa3f634334605f0f7"
+    },
+    {
+      "path": "genres/battle/index.html",
+      "sha256": "45d335217723793c7593f30bda60cb6ca30fc8c139f74d2d04f03077c93cfa1e"
+    },
+    {
+      "path": "genres/comedy/index.html",
+      "sha256": "d56aa4d892a75c369e7d662705dab24efcededd332d5a1e340bd7dcbcc02f363"
+    },
+    {
+      "path": "genres/coming_of_age/index.html",
+      "sha256": "a5a5840de61c1806bd746d0c28b110463c570d9601fa5963717b4517d8f9fc21"
+    },
+    {
+      "path": "genres/dark_fantasy/index.html",
+      "sha256": "9bf404141c2507d5877cfdb196ea36637517fd625eeb6689ca48c40c04df8535"
+    },
+    {
+      "path": "genres/fantasy/index.html",
+      "sha256": "2c37728569ba7900109c3c62f757be0dfa37c854014de8632d773bff32999a23"
+    },
+    {
+      "path": "genres/historical/index.html",
+      "sha256": "8aac6f87436e7de730f31fb845f251f5c161abb7ffcf459c1382884b4b6af3a8"
+    },
+    {
+      "path": "genres/human_drama/index.html",
+      "sha256": "cce70471ce0e741369cca6719b0b5d36de85429d22e57452a9f327155f9cd130"
+    },
+    {
+      "path": "genres/index.html",
+      "sha256": "8a7feab75636404108720937653be4f559bb79afc2f5c29abad7e2e40f4bf0ab"
+    },
+    {
+      "path": "genres/mystery/index.html",
+      "sha256": "336ed5ef435e58569834f667d76e7cd66e150d1ba286fe3e716909482261e38b"
+    },
+    {
+      "path": "genres/romance/index.html",
+      "sha256": "a02ca9b8eabb46e08d53fa5b780b8262a6477e64f749897cb0c1d6ca94281e37"
+    },
+    {
+      "path": "genres/sf/index.html",
+      "sha256": "f9dd6bd4b3254edbb1567f92a1feaf52b67907fe04f53d4657fe41850613cff0"
+    },
+    {
+      "path": "genres/suspense/index.html",
+      "sha256": "98d6492b8fa72c6945d93e6328c12ab21830d46d721283647631a6cf9b7d684e"
+    },
+    {
+      "path": "index.html",
+      "sha256": "21df27e6fad6931929036bdad4194a60f3e81652ed9d454731883d41aa195dfb"
+    },
+    {
+      "path": "media/anime/index.html",
+      "sha256": "891330e88f318e72e176871be4280c71aed1e57b15b9b7c18529cf957672014c"
+    },
+    {
+      "path": "media/book/index.html",
+      "sha256": "f67848ac6db50386df381e6c4edae5fc079b6359d1e3d2f6c44a1224d2ba7bbf"
+    },
+    {
+      "path": "media/film/index.html",
+      "sha256": "ab9b5a9ed4a03004d3823e0c1f1882d4290a26b8e490f183893547caaa534ec6"
+    },
+    {
+      "path": "media/manga/index.html",
+      "sha256": "3417b6a770da04ec936c9d446f46ef79f0bf3665156ef773ccb182e80a822cba"
+    },
+    {
+      "path": "media/novel/index.html",
+      "sha256": "e8619693bc005fa8e0e67a1f051f3c9f605877950bdb80277233a1c15a213848"
+    },
+    {
+      "path": "policy/index.html",
+      "sha256": "bd48d9726ed82e89afb1c92c44656895edf2666f1cffa544666b2e92b42c2844"
+    },
+    {
+      "path": "robots.txt",
+      "sha256": "16ceb5ee3e0dc13aa9adf31a3ebbe45a1d965b8c2b9f72eaf84e5911e140ed95"
+    },
+    {
+      "path": "search/index.html",
+      "sha256": "f3e242238c5684e5429a92ab9d42f6cbe3c364c3db899daece3b0bc29d9c677f"
+    },
+    {
+      "path": "sitemap.xml",
+      "sha256": "47337deb6c3dca4cce1b7b1bf6989792e4d9fec76058982b75632e94fd2fb68e"
+    },
+    {
+      "path": "sitemap/index.html",
+      "sha256": "f86178a12040da61bce15bf758b48ac0f73b6a57941fdf1d622926de6495d8ad"
+    },
+    {
+      "path": "spoilers/index.html",
+      "sha256": "d38245eddde1deeecee5b27494301e14e89ad1151e1cae2365f41d7109eecb42"
+    },
+    {
+      "path": "takedown/index.html",
+      "sha256": "afbe956ed4cd6a43114625109e3f7574a491a444cbaa39c4849ec3513868e238"
+    },
+    {
+      "path": "works/anime-mahoushoujo-madoka-magika-2011/context/index.html",
+      "sha256": "653ed663553f0c0e6922a7a600e64b9215a79dd6bb9d866a6e1346ac1c3e1fb6"
+    },
+    {
+      "path": "works/anime-mahoushoujo-madoka-magika-2011/events/index.html",
+      "sha256": "455cda0d5c3b965b6b1b5535135a6e1afcd9692e25ace88a93c1c10ddf49da40"
+    },
+    {
+      "path": "works/anime-mahoushoujo-madoka-magika-2011/index.html",
+      "sha256": "224aa70c51129fbd1541a39819126d908dd76c6251da9ff14d98f70885d7ff8e"
+    },
+    {
+      "path": "works/anime-mahoushoujo-madoka-magika-2011/interpretations/index.html",
+      "sha256": "09e5ac837d768149d2a2ca1a4c1e8483f1cee1cefae039fa1a7af574e2d2f26f"
+    },
+    {
+      "path": "works/anime-mahoushoujo-madoka-magika-2011/matrix/index.html",
+      "sha256": "10451b1771168927729e3c332ac2927d56209a94c825f3409fc423e2e1aa32f5"
+    },
+    {
+      "path": "works/anime-mahoushoujo-madoka-magika-2011/people/index.html",
+      "sha256": "5b7b1463b813fdcd594b531be776d467c391baf37dc888cab4bab1e66741481e"
+    },
+    {
+      "path": "works/anime-mahoushoujo-madoka-magika-2011/quiz/index.html",
+      "sha256": "006e2badc63733a1ca93f5df4491825f01901b25c12f0958b2dadfcbd771e25a"
+    },
+    {
+      "path": "works/anime-mahoushoujo-madoka-magika-2011/relations/index.html",
+      "sha256": "28cce3586fc12335b1b9d2d5da23f818c95d1a7f4a0052520d64858f00978abd"
+    },
+    {
+      "path": "works/anime-mahoushoujo-madoka-magika-2011/reverse-plot/index.html",
+      "sha256": "2f8e707ff7b8958043e8ff462a32030499fef81612e11fccc9826ed2da7347be"
+    },
+    {
+      "path": "works/anime-mahoushoujo-madoka-magika-2011/sources/index.html",
+      "sha256": "06d836e088f95e447d81cb5abb6a12bca404a2726b3e8baaaa772f509f044e58"
+    },
+    {
+      "path": "works/anime-mahoushoujo-madoka-magika-2011/themes/index.html",
+      "sha256": "23f3d800e64bea715216716050c39aecd577b70e90446b2f84fe8b32f4044392"
+    },
+    {
+      "path": "works/book-nekusasu-jouhou-no-jinruishi-2025/arguments/index.html",
+      "sha256": "177aa754af7f99bdf5666cea7595d5deee37d51c5ebbe2b508db97f6b646dece"
+    },
+    {
+      "path": "works/book-nekusasu-jouhou-no-jinruishi-2025/assumptions/index.html",
+      "sha256": "c3f783e20ad07eaab3cada1965d1f8ad780b76042fc882e418dc2f642c9e7051"
+    },
+    {
+      "path": "works/book-nekusasu-jouhou-no-jinruishi-2025/author-context/index.html",
+      "sha256": "92eabfa31f44c2220f38c50297511ac10c65151147c31808bb6ad908042e7e4b"
+    },
+    {
+      "path": "works/book-nekusasu-jouhou-no-jinruishi-2025/chronology/index.html",
+      "sha256": "ffbcdf8d2a3bd84f91b108f03bdb0542b745ec9663dd8d82bdeb9ad4cbbb374e"
+    },
+    {
+      "path": "works/book-nekusasu-jouhou-no-jinruishi-2025/concepts/index.html",
+      "sha256": "46db6edd95fc601ad93dd4d8bd9e8351bd83caad046a59ebfa049654368ee747"
+    },
+    {
+      "path": "works/book-nekusasu-jouhou-no-jinruishi-2025/criticism/index.html",
+      "sha256": "ca1c7c18cf4e16adbdc8e90d86c65d78cadde523fc850d40b01008d932b5a041"
+    },
+    {
+      "path": "works/book-nekusasu-jouhou-no-jinruishi-2025/evidence/index.html",
+      "sha256": "35d8e0597a1e42210a23116b12d9a5efadc598686990d04c182c90ecd19338bd"
+    },
+    {
+      "path": "works/book-nekusasu-jouhou-no-jinruishi-2025/index.html",
+      "sha256": "9d286dd968410fa42425f0160e2aee63d18fa39597e4aaa90253b1bfa4bd3a13"
+    },
+    {
+      "path": "works/book-nekusasu-jouhou-no-jinruishi-2025/open-questions/index.html",
+      "sha256": "7334fe843773ba35e676841f0508b6fb4b7672841daaa08ffe21e9dac33692cb"
+    },
+    {
+      "path": "works/book-nekusasu-jouhou-no-jinruishi-2025/outline/index.html",
+      "sha256": "db11a275c082e8f79ef28229a30bfadf89e49c36a04be6e96078f62b08e3e3c2"
+    },
+    {
+      "path": "works/book-nekusasu-jouhou-no-jinruishi-2025/sources/index.html",
+      "sha256": "cf2618bc91d25b1d2d8ad10bd1c217afceecb45a7d5a795a7aa0e50b8f3a6cd9"
+    },
+    {
+      "path": "works/book-nekusasu-jouhou-no-jinruishi-2025/thesis/index.html",
+      "sha256": "451ef167f3de9368f2d6e0860cd7b6a1422bbb4033d8ea461e01d704f20ae87a"
+    },
+    {
+      "path": "works/book-sapiensu-zenshi-2016/arguments/index.html",
+      "sha256": "d4169ec65a4c513a8ef7c1e3b4417b8002b7b072f7cbc15b6f29bd5e4e2ccce2"
+    },
+    {
+      "path": "works/book-sapiensu-zenshi-2016/assumptions/index.html",
+      "sha256": "e26cba623cb01b5fba7bd4084a4cc8c34824ec87652da3956afaaa56c3d01532"
+    },
+    {
+      "path": "works/book-sapiensu-zenshi-2016/author-context/index.html",
+      "sha256": "fd342b0365bf1457d1d721053c69002d450a50486480660b35ef0600fb3b42a8"
+    },
+    {
+      "path": "works/book-sapiensu-zenshi-2016/chronology/index.html",
+      "sha256": "37db5cee42058bf3efdea472ff5ff485be39899997a04a7738a620a7962bbc53"
+    },
+    {
+      "path": "works/book-sapiensu-zenshi-2016/concepts/index.html",
+      "sha256": "74d13162bf8e428f31f8d6b5b381115b61e37e676396aadf278899da5af79c7f"
+    },
+    {
+      "path": "works/book-sapiensu-zenshi-2016/criticism/index.html",
+      "sha256": "2417bcbc36307ba334d79987e71f07c8e6b579cb845921b33ea8b9bf28922d4c"
+    },
+    {
+      "path": "works/book-sapiensu-zenshi-2016/evidence/index.html",
+      "sha256": "ed0ec05da78a1c2bcba3d9779385cde8dd858e84419ae38b89fab5f7a6c3872d"
+    },
+    {
+      "path": "works/book-sapiensu-zenshi-2016/index.html",
+      "sha256": "0e665d23828538608bcc7fcf071e99af6b4f45d8f238b4b881e377c364ce69cf"
+    },
+    {
+      "path": "works/book-sapiensu-zenshi-2016/open-questions/index.html",
+      "sha256": "0476c40bd043d9cd0e1e056918fbecb888c62923bb58fec929d9f84e4fcd2046"
+    },
+    {
+      "path": "works/book-sapiensu-zenshi-2016/outline/index.html",
+      "sha256": "995ed37ba8cd2a098b5efa2f89df89f8954003e08cee676ce32674a6f54f0638"
+    },
+    {
+      "path": "works/book-sapiensu-zenshi-2016/sources/index.html",
+      "sha256": "ee41d766e304561a75efbd2987106933817100751fd056be99809317674ae3ca"
+    },
+    {
+      "path": "works/book-sapiensu-zenshi-2016/thesis/index.html",
+      "sha256": "b4ab12968591335b828962f8ecaa21ab7a3cbd6356376a9694936abd382eeb3d"
+    },
+    {
+      "path": "works/film-matorikkusu-1999/context/index.html",
+      "sha256": "5b0ad88488e0a7b7d66a109e91b73722e436cfed46bf9ef4f340c4a81e990f5e"
+    },
+    {
+      "path": "works/film-matorikkusu-1999/events/index.html",
+      "sha256": "bb1a58ff8bc9f36ed545b684ab6b60eb78cbee5683bf857cf6b079a8992a46ac"
+    },
+    {
+      "path": "works/film-matorikkusu-1999/index.html",
+      "sha256": "99844d1d02e589298df8daf2103e3ec52d0b22fddd2f94ae9cf0445a15b803f7"
+    },
+    {
+      "path": "works/film-matorikkusu-1999/interpretations/index.html",
+      "sha256": "af5a836ff63bcb86156bcbff47967b0be56f4f27cd989aa54d4ac4b8bbc69abf"
+    },
+    {
+      "path": "works/film-matorikkusu-1999/matrix/index.html",
+      "sha256": "0ad8f9ae0b10cd349dbf5b8e58f811d3bb51a71f52ac57afb5818b58de9976df"
+    },
+    {
+      "path": "works/film-matorikkusu-1999/people/index.html",
+      "sha256": "a8461fc762cdbdd3ee5606e92842b6e9bacd7d159ad85dcb1789d27a22101e95"
+    },
+    {
+      "path": "works/film-matorikkusu-1999/quiz/index.html",
+      "sha256": "d4e7a4d162b7b1d2b5f2dc1d9ed26c289cf2ab6ddbdf88471b24357da092714a"
+    },
+    {
+      "path": "works/film-matorikkusu-1999/relations/index.html",
+      "sha256": "5977d7edcb64d3d7ae3347189eb4d2c488c8b440d67b1b7026b221042555ed79"
+    },
+    {
+      "path": "works/film-matorikkusu-1999/reverse-plot/index.html",
+      "sha256": "fe8c63b70223881e537764a2f0b6bba053867fcc6c2ee70a42bf90a48e082746"
+    },
+    {
+      "path": "works/film-matorikkusu-1999/sources/index.html",
+      "sha256": "34c275024aa9118ad2462e9f9fcf0ddcaee2b21451be307af3b60bf505fed7b3"
+    },
+    {
+      "path": "works/film-matorikkusu-1999/themes/index.html",
+      "sha256": "32cad37dc2d6a9be6a6f684c99fbed4b058737bfccfa5e721c03cb8c3e5aa65d"
+    },
+    {
+      "path": "works/film-matorikkusu-reboryuushonzu-2003/context/index.html",
+      "sha256": "4fb461dc06d68cb3239abf5f953f7e487e18ec12e020dfc4deea08e7a5609f0a"
+    },
+    {
+      "path": "works/film-matorikkusu-reboryuushonzu-2003/events/index.html",
+      "sha256": "175911384cdc52306cef471095ae0c5facc0a23073fdf18e1ba04403703723b9"
+    },
+    {
+      "path": "works/film-matorikkusu-reboryuushonzu-2003/index.html",
+      "sha256": "049c9e79cc4fc554b41c0877888390a98f622f1a71966604987a4019539044e4"
+    },
+    {
+      "path": "works/film-matorikkusu-reboryuushonzu-2003/interpretations/index.html",
+      "sha256": "b63a36ec34a3654b443b4c198355485d809f5bb4bcab405b5144451a80375f55"
+    },
+    {
+      "path": "works/film-matorikkusu-reboryuushonzu-2003/matrix/index.html",
+      "sha256": "d557c42958d6da721ccbf52326e3515c5bcc11ebb9fc8412cc3105a5f0f4d4ee"
+    },
+    {
+      "path": "works/film-matorikkusu-reboryuushonzu-2003/people/index.html",
+      "sha256": "5319c5009bc8c48b11d34b40207681186f921db63bc167cec32333ef0bfb964f"
+    },
+    {
+      "path": "works/film-matorikkusu-reboryuushonzu-2003/quiz/index.html",
+      "sha256": "7732f0062a4991d87c3bbab05d2ebf8b4c49c33dcd4551f7b229e2193b88887e"
+    },
+    {
+      "path": "works/film-matorikkusu-reboryuushonzu-2003/relations/index.html",
+      "sha256": "dad3dfe9d719e0557cc07846591ef661c7cc13bb01610e3717ea65dcfe1f0010"
+    },
+    {
+      "path": "works/film-matorikkusu-reboryuushonzu-2003/reverse-plot/index.html",
+      "sha256": "a5fc07383da28544176635309df8b565f722015b4ca23f861d4c83c966ce4f2a"
+    },
+    {
+      "path": "works/film-matorikkusu-reboryuushonzu-2003/sources/index.html",
+      "sha256": "72e5b1121874024c60023ac9a1761144ee28527cdafd5607b4208fc28ead6f7f"
+    },
+    {
+      "path": "works/film-matorikkusu-reboryuushonzu-2003/themes/index.html",
+      "sha256": "325e03d23e0bf3833df3952bb452485fb9ba7562b939c1b6c68141f2522f8327"
+    },
+    {
+      "path": "works/film-matorikkusu-riroodeddo-2003/context/index.html",
+      "sha256": "ab479fcc27f2ebd852d8ff406561b75655db2b44ce51717002ebd7323f813b04"
+    },
+    {
+      "path": "works/film-matorikkusu-riroodeddo-2003/events/index.html",
+      "sha256": "32bb21505f4bfc41aabb5275ca55b37c3dc7ad10c34230571e1e4b452699d011"
+    },
+    {
+      "path": "works/film-matorikkusu-riroodeddo-2003/index.html",
+      "sha256": "8e56fc5219c4a1268cdb3750beb923d3c3a806214962c958e92aad2440084c38"
+    },
+    {
+      "path": "works/film-matorikkusu-riroodeddo-2003/interpretations/index.html",
+      "sha256": "4553a4217e85e71fbd62b73b4719618c44f166252f41424f53f1bac8e77392f0"
+    },
+    {
+      "path": "works/film-matorikkusu-riroodeddo-2003/matrix/index.html",
+      "sha256": "bda6a6fe6a24e7107bb739426fc5f078588a6a3963c8f3cdb52d0dbd688d374f"
+    },
+    {
+      "path": "works/film-matorikkusu-riroodeddo-2003/people/index.html",
+      "sha256": "037060d7efbb5c51d4a191f99cd9e189cecf2fb0f910d4e96ca7b4676b0653ef"
+    },
+    {
+      "path": "works/film-matorikkusu-riroodeddo-2003/quiz/index.html",
+      "sha256": "07f44b8c8107270dfa1a793dbdd4d99b2523647b10e02418f3b2d956474bc2ae"
+    },
+    {
+      "path": "works/film-matorikkusu-riroodeddo-2003/relations/index.html",
+      "sha256": "859e2f6bab504425bf21bf19b1692f4de39ff7d85630be4073dac68518e18353"
+    },
+    {
+      "path": "works/film-matorikkusu-riroodeddo-2003/reverse-plot/index.html",
+      "sha256": "c878183ce6566c248ed1cf19c063d3313c1e477b8355d55a3de17cb734ee0ada"
+    },
+    {
+      "path": "works/film-matorikkusu-riroodeddo-2003/sources/index.html",
+      "sha256": "9e6deae739bd08c93567b8957a22bedf20f719d23cc8524927a24900684636c8"
+    },
+    {
+      "path": "works/film-matorikkusu-riroodeddo-2003/themes/index.html",
+      "sha256": "2d5df9f9edd0b8d30d452ffd29234ae00948ad613e8fe1ecfe3f5ddf309ac7af"
+    },
+    {
+      "path": "works/film-sen-to-chihiro-no-kamikakushi-2001/context/index.html",
+      "sha256": "363d4d98e3460c4749161f072dc77c1957fa2bc9d4b038452476b1141e83a8e3"
+    },
+    {
+      "path": "works/film-sen-to-chihiro-no-kamikakushi-2001/events/index.html",
+      "sha256": "3c27412035eb4fbd8ab542a8a17528a54a0dc66944dbfb78fee42b5759a89bd4"
+    },
+    {
+      "path": "works/film-sen-to-chihiro-no-kamikakushi-2001/index.html",
+      "sha256": "4665629b5433d6c00e2009e418b422c9989945612406500f5e85e47870454936"
+    },
+    {
+      "path": "works/film-sen-to-chihiro-no-kamikakushi-2001/interpretations/index.html",
+      "sha256": "82ed85a276db597b052ee967bc99e4b03f5a1afee3fee27afe1738dce04cebfa"
+    },
+    {
+      "path": "works/film-sen-to-chihiro-no-kamikakushi-2001/matrix/index.html",
+      "sha256": "e1d998d3fd499b92e89b8159a499bf1ae40892f3e8b42e54f4deef14a0fd1c33"
+    },
+    {
+      "path": "works/film-sen-to-chihiro-no-kamikakushi-2001/people/index.html",
+      "sha256": "d8f9b97d64e2887ea8617ad19b522a08d3cbe34388d4901520d3016c445de164"
+    },
+    {
+      "path": "works/film-sen-to-chihiro-no-kamikakushi-2001/quiz/index.html",
+      "sha256": "0e5f69574043e5fe59afd15364bfeb134e500f9278cdb08b8e5862d6b4c3370f"
+    },
+    {
+      "path": "works/film-sen-to-chihiro-no-kamikakushi-2001/relations/index.html",
+      "sha256": "af3e317a28bd37a3c5ff5a6ab9b48b9381bea9ac21b10e9f5d3a07bec6b647a8"
+    },
+    {
+      "path": "works/film-sen-to-chihiro-no-kamikakushi-2001/reverse-plot/index.html",
+      "sha256": "49b738eebb16d5cd4d0445ba3790defa6f02db4525c8d0811fe2f1b19a8145ec"
+    },
+    {
+      "path": "works/film-sen-to-chihiro-no-kamikakushi-2001/sources/index.html",
+      "sha256": "2f3b3bcb3433bda8c0fe044ae18736ffc1517db911c635744f930b368ef01a70"
+    },
+    {
+      "path": "works/film-sen-to-chihiro-no-kamikakushi-2001/themes/index.html",
+      "sha256": "066d9f79ef8b703adbd1f34aa6910a944e1600d40af195c268b2c59cac739fba"
+    },
+    {
+      "path": "works/film-urufu-obu-woorusutoriito-2013/context/index.html",
+      "sha256": "63545dd1307546d872f9a3ab728722272b51ac2d49b71a634b68a178a087d2f0"
+    },
+    {
+      "path": "works/film-urufu-obu-woorusutoriito-2013/events/index.html",
+      "sha256": "2b2869a88624bbc7fc4214364ebc3926e9608923ab3fe36f489c3646a50ebb99"
+    },
+    {
+      "path": "works/film-urufu-obu-woorusutoriito-2013/index.html",
+      "sha256": "0b2c7f2ac2e4112947c6f03252a88be4b02949e647b3072a99a608312da5b5ff"
+    },
+    {
+      "path": "works/film-urufu-obu-woorusutoriito-2013/interpretations/index.html",
+      "sha256": "806ba14e3a4ff8f2688522e91ff61e164be6a369d3f66b08e8d0e13a5e52aed3"
+    },
+    {
+      "path": "works/film-urufu-obu-woorusutoriito-2013/matrix/index.html",
+      "sha256": "c828d9bdd0cdfbeceb4912c95a721351d448d9b3d4f0bb59311cc6ed0f7b56da"
+    },
+    {
+      "path": "works/film-urufu-obu-woorusutoriito-2013/people/index.html",
+      "sha256": "c9ed5735b4c9a5b5eff9b8b6cb3ee7be2f11dbe652afebfb4c7cda161e7b8c54"
+    },
+    {
+      "path": "works/film-urufu-obu-woorusutoriito-2013/quiz/index.html",
+      "sha256": "e749a11ccfccdeec265f1e4d7205c454dae6dd54a901185fe29396ceaba590aa"
+    },
+    {
+      "path": "works/film-urufu-obu-woorusutoriito-2013/relations/index.html",
+      "sha256": "17880e8695295f58473bd917880dc46593898d6c82c0c33d541230e967c0c468"
+    },
+    {
+      "path": "works/film-urufu-obu-woorusutoriito-2013/reverse-plot/index.html",
+      "sha256": "3d7fa554f32ea3b428b5b5815c1b4fe508a02d6826c026385de38880d4b909c7"
+    },
+    {
+      "path": "works/film-urufu-obu-woorusutoriito-2013/sources/index.html",
+      "sha256": "3ce1f74138eae9762c3ef75051ade4f06574b7b7734c62d666f7fd1846da16f0"
+    },
+    {
+      "path": "works/film-urufu-obu-woorusutoriito-2013/themes/index.html",
+      "sha256": "23534daf116a5faf88199f7238bd2722ebc0f96b4153bd970c9681abf97758f3"
+    },
+    {
+      "path": "works/index.html",
+      "sha256": "c05edf6f067ba56caf693bb4c6068be56a396d7536bdbcf8ea10664d3fe85437"
+    },
+    {
+      "path": "works/manga-hantaa-hantaa-1998/context/index.html",
+      "sha256": "4a83d4e30e129fb75c46478b5a67a402d6b1762ad9aa597775de53677fdbb9cf"
+    },
+    {
+      "path": "works/manga-hantaa-hantaa-1998/events/index.html",
+      "sha256": "75831ed020433f8161a315f563846e710f34c62335df41dfc82d80b301df6892"
+    },
+    {
+      "path": "works/manga-hantaa-hantaa-1998/index.html",
+      "sha256": "eea5db3149d0a625bf619860d5ac0c55ee179c6f537a0e7cd25da67068cc31f5"
+    },
+    {
+      "path": "works/manga-hantaa-hantaa-1998/interpretations/index.html",
+      "sha256": "41a1d7fe54fe3af7bd2e3dd7e5de6eec0a67dec3c3c5b3fbc6fbee7f5a164bea"
+    },
+    {
+      "path": "works/manga-hantaa-hantaa-1998/people/index.html",
+      "sha256": "f0c3059a504ed0ca1f42b25970ba5e9e4dded47fefe00a03223cc51bc2a9543d"
+    },
+    {
+      "path": "works/manga-hantaa-hantaa-1998/quiz/index.html",
+      "sha256": "4a38117283f349e6923a304ccac2656efc6f37b8e64a3d96d928ab349f009835"
+    },
+    {
+      "path": "works/manga-hantaa-hantaa-1998/relations/index.html",
+      "sha256": "e103bc45886500c17ab6702b2f9303778a14777bf8be57ab1b2bcfc971626ff5"
+    },
+    {
+      "path": "works/manga-hantaa-hantaa-1998/reverse-plot/index.html",
+      "sha256": "02252805e17a6cd2b207f46489ede69af2393f0238f7c5ec98b32680da3b6fc8"
+    },
+    {
+      "path": "works/manga-hantaa-hantaa-1998/sources/index.html",
+      "sha256": "7e78c3eb9a7e25837d97b13649ed904869f776993102023e65b88da50779fdf8"
+    },
+    {
+      "path": "works/manga-hantaa-hantaa-1998/themes/index.html",
+      "sha256": "4d8bb19893015ff78867c8d1bdc785bdfb7b7c9f9e4a532d000a2b9c984cbd3d"
+    },
+    {
+      "path": "works/novel-buraindosaito-2006/context/index.html",
+      "sha256": "dac86ced703f4276c6b55f701a5d71081bf29c8cf242e6d397ebebdd953dd72c"
+    },
+    {
+      "path": "works/novel-buraindosaito-2006/events/index.html",
+      "sha256": "0fba9fd32e8d9771adb07d5179d5aa819d0a2f883a3630d431bfd48c7256c753"
+    },
+    {
+      "path": "works/novel-buraindosaito-2006/glossary-alien-terms/index.html",
+      "sha256": "0ea665b26e40a28a161b2d90ea4b42e04b36110c405a8a0fcf3bbcc4c2cebc6c"
+    },
+    {
+      "path": "works/novel-buraindosaito-2006/glossary/index.html",
+      "sha256": "0598e14b2186325aca52f33e0ec67386d6f3bcab3cfff586c645f75f4d1352d7"
+    },
+    {
+      "path": "works/novel-buraindosaito-2006/index.html",
+      "sha256": "5f8b5237931930506fbe479475a6f0d70ed0b78113a44580b004da2603d00a9e"
+    },
+    {
+      "path": "works/novel-buraindosaito-2006/interpretations/index.html",
+      "sha256": "6e40c741a6fdd45beceff96e613e5df5a2ad8cf1ff05940f0633d65f319ced73"
+    },
+    {
+      "path": "works/novel-buraindosaito-2006/matrix/index.html",
+      "sha256": "8b3aa402781c39fd0746e82709a691a368fcf06357f987d5920906c24f26c904"
+    },
+    {
+      "path": "works/novel-buraindosaito-2006/people/index.html",
+      "sha256": "074ba06a2142f958e81c5e798b403b03618c0b345b9f58afaeb4ccebcad8ccc6"
+    },
+    {
+      "path": "works/novel-buraindosaito-2006/quiz/index.html",
+      "sha256": "25e5fce9c43e1041cc7bde76e604199d266d8aca235afd51756adde57b8b9b4c"
+    },
+    {
+      "path": "works/novel-buraindosaito-2006/relations/index.html",
+      "sha256": "9cdfa3c1f22c51bff3a3c5b3ca38bcac9397a0710bddc6841948ab5cb320cd5e"
+    },
+    {
+      "path": "works/novel-buraindosaito-2006/reverse-plot/index.html",
+      "sha256": "a79ad80a90826f50fc8676fcc154e7cf2f0ebf879359323f935b4215ce9e023c"
+    },
+    {
+      "path": "works/novel-buraindosaito-2006/sources/index.html",
+      "sha256": "ea8295d2e1edf6fc5372debaa268da1935d542c18f2fcebceaf2b49c1b5c4643"
+    },
+    {
+      "path": "works/novel-buraindosaito-2006/themes/index.html",
+      "sha256": "28abbbcff0216f74762c4a92b32e10a9ce0df9356b8c32b2b83e413b6f7f7250"
+    },
+    {
+      "path": "works/novel-homo-deusu-2015/arguments/index.html",
+      "sha256": "8c71ed16eb5df787ab0aa6267985854ce1a1a91838f55e90d7311aca26b57029"
+    },
+    {
+      "path": "works/novel-homo-deusu-2015/assumptions/index.html",
+      "sha256": "3e92cfe5d4b767aa6a68f886fcff4766596b77881bb33e059f7b7bad6b912713"
+    },
+    {
+      "path": "works/novel-homo-deusu-2015/author-context/index.html",
+      "sha256": "d159e3102d054982e133466029a0480a07a2e4daa25125f7958ed20ce95059b2"
+    },
+    {
+      "path": "works/novel-homo-deusu-2015/chronology/index.html",
+      "sha256": "bd32400e697e555932a4c84a47ec2d610cdd6481af1220d940ddf242b5066630"
+    },
+    {
+      "path": "works/novel-homo-deusu-2015/concepts/index.html",
+      "sha256": "5cbab99436b4c8eecd417f596337c9a3f9ac827d42627c425044105037d7d01d"
+    },
+    {
+      "path": "works/novel-homo-deusu-2015/criticism/index.html",
+      "sha256": "ad9d34950c4cc3d0425391958300f20a598b44c984185ef3c5d6576460680594"
+    },
+    {
+      "path": "works/novel-homo-deusu-2015/evidence/index.html",
+      "sha256": "992fa246f7489b26f58b49f2fb6495ffd8968dc550647e22220bfaaea37e4aa9"
+    },
+    {
+      "path": "works/novel-homo-deusu-2015/index.html",
+      "sha256": "c72d6d08b2673948ad00b0d30e755ed058edbb210857e2002857a8ff6679b2d3"
+    },
+    {
+      "path": "works/novel-homo-deusu-2015/open-questions/index.html",
+      "sha256": "f005bd270a9c57a863598ea880d48cf9d1545832c996167c548be5e8af79dd8d"
+    },
+    {
+      "path": "works/novel-homo-deusu-2015/outline/index.html",
+      "sha256": "9ef905336f01e82ca5a01ee0ee487c237ae7c15487fd8c4452a0e024bca4d0e3"
+    },
+    {
+      "path": "works/novel-homo-deusu-2015/sources/index.html",
+      "sha256": "086cea1ab2440d5c7dbd99dd04791b05f941bc9c155a28e4e4cb4ef38446cbb8"
+    },
+    {
+      "path": "works/novel-homo-deusu-2015/thesis/index.html",
+      "sha256": "69d0012c47ddcf66f9be979721056cce96eed1798825d6642c4c824b2c44f55c"
+    },
+    {
+      "path": "works/novel-yougisha-ekkusu-no-kenshin-2005/context/index.html",
+      "sha256": "dcc44411f2cc19ebda755599f6e63fee18ebe2e9fa16c7e26a76a449fee0284a"
+    },
+    {
+      "path": "works/novel-yougisha-ekkusu-no-kenshin-2005/events/index.html",
+      "sha256": "1f1e2eff39a6085b552890cee50aa462db8405b9e7d31e674204ace86e4cc637"
+    },
+    {
+      "path": "works/novel-yougisha-ekkusu-no-kenshin-2005/index.html",
+      "sha256": "6ea662c49a65890282e0e2fbb6e3cbc7b50e631a897208005640eb673db88b79"
+    },
+    {
+      "path": "works/novel-yougisha-ekkusu-no-kenshin-2005/interpretations/index.html",
+      "sha256": "c045bcd4a9d53d9b30abd32abe14daf2160e2e657e039c76c8b28bbd61485b90"
+    },
+    {
+      "path": "works/novel-yougisha-ekkusu-no-kenshin-2005/matrix/index.html",
+      "sha256": "f44a0b715c73d84f7e2be558295e50c1613a9e3f3e0365dcd30bb7a7d084752d"
+    },
+    {
+      "path": "works/novel-yougisha-ekkusu-no-kenshin-2005/people/index.html",
+      "sha256": "25ee55eff93eda157136c67de863ba570868c5865e4fe69db2625fce01c10882"
+    },
+    {
+      "path": "works/novel-yougisha-ekkusu-no-kenshin-2005/quiz/index.html",
+      "sha256": "f64b2b5f16f83de700dd1bc3e0a2b60bd1ed70110a3752f255a51af06300f351"
+    },
+    {
+      "path": "works/novel-yougisha-ekkusu-no-kenshin-2005/relations/index.html",
+      "sha256": "8ebb96075783a3e6448984d1d2910f2feaceaaaa37e2e2eaad4a155953758ad2"
+    },
+    {
+      "path": "works/novel-yougisha-ekkusu-no-kenshin-2005/reverse-plot/index.html",
+      "sha256": "2a52932b527dc4cf8f504ecba3916e2f95591df93cca2fc2364a0e01445c36e8"
+    },
+    {
+      "path": "works/novel-yougisha-ekkusu-no-kenshin-2005/sources/index.html",
+      "sha256": "5c48ccf82b29dab44d23213a61caf80bc0fe615df2cfb533d56193096a3d38aa"
+    },
+    {
+      "path": "works/novel-yougisha-ekkusu-no-kenshin-2005/themes/index.html",
+      "sha256": "8b4b5dc098d36a56e3b7098c7887ed25976925bd020416a74105a61875ad2cfb"
+    }
+  ]
+}

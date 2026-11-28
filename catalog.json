@@ -1,0 +1,414 @@
+[
+  {
+    "work_id": "film-urufu-obu-woorusutoriito-2013",
+    "url": "works/film-urufu-obu-woorusutoriito-2013/",
+    "title": "ウルフ・オブ・ウォールストリート",
+    "title_original": "The Wolf of Wall Street",
+    "title_reading": "うるふ おぶ うぉーるすとりーと",
+    "aliases": [
+      "THE WOLF OF WALL STREET",
+      "ウルフオブウォール・ストリート"
+    ],
+    "medium": "film",
+    "creators": [
+      "マーティン・スコセッシ",
+      "ジョーダン・ベルフォート"
+    ],
+    "genres": [
+      "human_drama",
+      "comedy"
+    ],
+    "tags": [
+      "work_life",
+      "crime",
+      "overseas",
+      "adapted",
+      "media_award"
+    ],
+    "status": "unknown",
+    "first_release_year": 2013,
+    "coverage_label": "全体",
+    "spoiler_max": "ending",
+    "has_matrix": true,
+    "first_published_at": "2026-11-24T15:23:22.370Z",
+    "updated_at": "2026-11-24T15:23:22.370Z"
+  },
+  {
+    "work_id": "book-sapiensu-zenshi-2016",
+    "url": "works/book-sapiensu-zenshi-2016/",
+    "title": "サピエンス全史",
+    "title_original": "SAPIENS",
+    "title_reading": "さぴえんす ぜんし",
+    "aliases": [
+      "SAPIENS",
+      "サピエンス全史 : 文明の構造と人類の幸福",
+      "サピエンス全史(ハラリ)"
+    ],
+    "kind": "nonfiction",
+    "medium": "book",
+    "creators": [
+      "ユヴァル・ノア・ハラリ",
+      "柴田 裕之"
+    ],
+    "genres": [],
+    "tags": [
+      "religion",
+      "politics",
+      "bestseller",
+      "translated_abroad"
+    ],
+    "status": "unknown",
+    "first_release_year": 2016,
+    "coverage_label": "全体",
+    "spoiler_max": "none",
+    "has_matrix": false,
+    "first_published_at": "2026-11-26T15:34:37.878Z",
+    "updated_at": "2026-11-28T04:07:01.960Z"
+  },
+  {
+    "work_id": "film-sen-to-chihiro-no-kamikakushi-2001",
+    "url": "works/film-sen-to-chihiro-no-kamikakushi-2001/",
+    "title": "千と千尋の神隠し",
+    "title_original": "Spirited Away",
+    "title_reading": "せん と ちひろ の かみかくし",
+    "aliases": [
+      "Spirited Away",
+      "千と千尋"
+    ],
+    "medium": "film",
+    "creators": [
+      "宮﨑 駿",
+      "鈴木敏夫",
+      "スタジオジブリ"
+    ],
+    "genres": [
+      "fantasy",
+      "coming_of_age",
+      "human_drama"
+    ],
+    "tags": [
+      "magic",
+      "supernatural",
+      "mythology",
+      "family",
+      "work_life",
+      "fictional_world",
+      "media_award"
+    ],
+    "status": "unknown",
+    "first_release_year": 2001,
+    "coverage_label": "全体",
+    "spoiler_max": "ending",
+    "has_matrix": true,
+    "first_published_at": "2026-11-23T00:22:39.114Z",
+    "updated_at": "2026-11-28T06:08:59.584Z"
+  },
+  {
+    "work_id": "book-nekusasu-jouhou-no-jinruishi-2025",
+    "url": "works/book-nekusasu-jouhou-no-jinruishi-2025/",
+    "title": "NEXUS 情報の人類史",
+    "title_original": "NEXUS",
+    "title_reading": "ねくさす じょうほう の じんるいし",
+    "aliases": [
+      "NEXUS",
+      "Nexus",
+      "NEXUS(ハラリ)"
+    ],
+    "kind": "nonfiction",
+    "medium": "book",
+    "creators": [
+      "ユヴァル・ノア・ハラリ"
+    ],
+    "genres": [],
+    "tags": [
+      "artificial_intelligence",
+      "politics",
+      "religion",
+      "translated_abroad"
+    ],
+    "status": "unknown",
+    "first_release_year": 2025,
+    "coverage_label": "全体",
+    "spoiler_max": "none",
+    "has_matrix": false,
+    "first_published_at": "2026-11-26T16:07:02.740Z",
+    "updated_at": "2026-11-28T04:11:15.750Z"
+  },
+  {
+    "work_id": "manga-hantaa-hantaa-1998",
+    "url": "works/manga-hantaa-hantaa-1998/",
+    "title": "HUNTER×HUNTER",
+    "title_original": null,
+    "title_reading": "はんたー はんたー",
+    "aliases": [
+      "ハンター×ハンター",
+      "ハンターハンター"
+    ],
+    "medium": "manga",
+    "creators": [
+      "冨樫義博"
+    ],
+    "genres": [
+      "battle",
+      "coming_of_age"
+    ],
+    "tags": [
+      "friendship",
+      "work_life",
+      "survival"
+    ],
+    "status": "unknown",
+    "first_release_year": 1998,
+    "coverage_label": "ハンター試験編",
+    "spoiler_max": "ending",
+    "has_matrix": false,
+    "first_published_at": "2026-11-24T03:55:01.696Z",
+    "updated_at": "2026-11-24T11:56:28.282Z"
+  },
+  {
+    "work_id": "novel-buraindosaito-2006",
+    "url": "works/novel-buraindosaito-2006/",
+    "title": "ブラインドサイト",
+    "title_original": "Blindsight",
+    "title_reading": "ぶらいんどさいと",
+    "aliases": [
+      "Blindsight"
+    ],
+    "kind": "fiction",
+    "medium": "novel",
+    "creators": [
+      "ピーター・ワッツ"
+    ],
+    "genres": [
+      "sf",
+      "suspense",
+      "battle"
+    ],
+    "tags": [
+      "space",
+      "artificial_intelligence",
+      "military",
+      "literary_award"
+    ],
+    "status": "unknown",
+    "first_release_year": 2006,
+    "coverage_label": "全体",
+    "spoiler_max": "ending",
+    "has_matrix": true,
+    "first_published_at": "2026-11-28T05:43:18.591Z",
+    "updated_at": "2026-11-28T13:53:34.632Z"
+  },
+  {
+    "work_id": "novel-homo-deusu-2015",
+    "url": "works/novel-homo-deusu-2015/",
+    "title": "ホモ・デウス",
+    "title_original": "Homo Deus",
+    "title_reading": "ほも でうす",
+    "aliases": [
+      "Homo Deus: a brief history of tomorrow",
+      "The History of Tomorrow",
+      "ホモデウス1",
+      "ホモ・デウス(ハラリ)"
+    ],
+    "kind": "nonfiction",
+    "medium": "book",
+    "creators": [
+      "ユヴァル・ノア・ハラリ"
+    ],
+    "genres": [
+      "historical"
+    ],
+    "tags": [
+      "artificial_intelligence",
+      "religion",
+      "politics",
+      "translated_abroad"
+    ],
+    "status": "unknown",
+    "first_release_year": 2015,
+    "coverage_label": "全体",
+    "spoiler_max": "none",
+    "has_matrix": false,
+    "first_published_at": "2026-11-25T11:41:12.840Z",
+    "updated_at": "2026-11-28T04:15:03.755Z"
+  },
+  {
+    "work_id": "film-matorikkusu-1999",
+    "url": "works/film-matorikkusu-1999/",
+    "title": "マトリックス",
+    "title_original": "The Matrix",
+    "title_reading": "まとりっくす",
+    "aliases": [
+      "The Matrix",
+      "マトリックス(1作目)"
+    ],
+    "medium": "film",
+    "creators": [
+      "ウォシャウスキー姉妹",
+      "アンディ・ウォシャウスキー",
+      "ラリー・ウォシャウスキー"
+    ],
+    "genres": [
+      "sf",
+      "battle"
+    ],
+    "tags": [
+      "artificial_intelligence",
+      "fictional_world",
+      "far_future",
+      "urban",
+      "media_award"
+    ],
+    "status": "unknown",
+    "first_release_year": 1999,
+    "coverage_label": "全体",
+    "spoiler_max": "ending",
+    "has_matrix": true,
+    "first_published_at": "2026-11-23T12:24:17.482Z",
+    "updated_at": "2026-11-23T12:24:17.482Z"
+  },
+  {
+    "work_id": "film-matorikkusu-riroodeddo-2003",
+    "url": "works/film-matorikkusu-riroodeddo-2003/",
+    "title": "マトリックス リローデッド",
+    "title_original": "The Matrix Reloaded",
+    "title_reading": "まとりっくす りろーでっど",
+    "aliases": [
+      "マトリックス"
+    ],
+    "medium": "film",
+    "creators": [
+      "アンディ・ウォシャウスキー",
+      "ラリー・ウォシャウスキー",
+      "ジョエル・シルバー"
+    ],
+    "genres": [
+      "sf",
+      "battle",
+      "suspense"
+    ],
+    "tags": [
+      "artificial_intelligence",
+      "war",
+      "urban"
+    ],
+    "status": "unknown",
+    "first_release_year": 2003,
+    "coverage_label": "2作目",
+    "spoiler_max": "ending",
+    "has_matrix": true,
+    "first_published_at": "2026-11-24T11:57:07.921Z",
+    "updated_at": "2026-11-24T11:57:07.921Z"
+  },
+  {
+    "work_id": "film-matorikkusu-reboryuushonzu-2003",
+    "url": "works/film-matorikkusu-reboryuushonzu-2003/",
+    "title": "マトリックス レボリューションズ",
+    "title_original": "The Matrix Revolutions",
+    "title_reading": "まとりっくす れぼりゅーしょんず",
+    "aliases": [
+      "レボリューションズ",
+      "マトリックス"
+    ],
+    "medium": "film",
+    "creators": [
+      "アンディ・ウォシャウスキー",
+      "ラリー・ウォシャウスキー",
+      "ジョエル・シルバー"
+    ],
+    "genres": [
+      "sf",
+      "battle",
+      "suspense"
+    ],
+    "tags": [
+      "artificial_intelligence",
+      "fictional_world",
+      "war"
+    ],
+    "status": "unknown",
+    "first_release_year": 2003,
+    "coverage_label": "3作目",
+    "spoiler_max": "ending",
+    "has_matrix": true,
+    "first_published_at": "2026-11-24T12:06:26.750Z",
+    "updated_at": "2026-11-24T12:06:26.750Z"
+  },
+  {
+    "work_id": "anime-mahoushoujo-madoka-magika-2011",
+    "url": "works/anime-mahoushoujo-madoka-magika-2011/",
+    "title": "魔法少女まどか☆マギカ",
+    "title_original": "Puella Magi Madoka Magica",
+    "title_reading": "まほうしょうじょ まどか まぎか",
+    "aliases": [
+      "まどマギ",
+      "Puella Magi Madoka Magica",
+      "まどか☆マギカ",
+      "魔法少女まどかマギカ (アニメーション)",
+      "魔法少女まどか★マギカ"
+    ],
+    "medium": "anime",
+    "creators": [
+      "Magica Quartet",
+      "新房昭之",
+      "虚淵玄",
+      "蒼樹うめ",
+      "シャフト"
+    ],
+    "genres": [
+      "dark_fantasy",
+      "fantasy",
+      "sf",
+      "battle"
+    ],
+    "tags": [
+      "magic",
+      "magical_girl",
+      "school",
+      "original_anime",
+      "single_cour",
+      "media_award",
+      "media_mix"
+    ],
+    "status": "unknown",
+    "first_release_year": 2011,
+    "coverage_label": "全体",
+    "spoiler_max": "ending",
+    "has_matrix": true,
+    "first_published_at": "2026-11-22T21:32:24.851Z",
+    "updated_at": "2026-11-23T06:29:41.162Z"
+  },
+  {
+    "work_id": "novel-yougisha-ekkusu-no-kenshin-2005",
+    "url": "works/novel-yougisha-ekkusu-no-kenshin-2005/",
+    "title": "容疑者Xの献身",
+    "title_original": null,
+    "title_reading": "ようぎしゃ えっくす の けんしん",
+    "aliases": [],
+    "medium": "novel",
+    "creators": [
+      "東野 圭吾"
+    ],
+    "genres": [
+      "mystery",
+      "human_drama",
+      "romance"
+    ],
+    "tags": [
+      "detective",
+      "trick",
+      "crime",
+      "contemporary_japan",
+      "long_series",
+      "literary_award",
+      "screen_adaptation"
+    ],
+    "status": "unknown",
+    "first_release_year": 2005,
+    "coverage_label": "全体",
+    "spoiler_max": "ending",
+    "has_matrix": true,
+    "first_published_at": "2026-11-22T20:54:16.632Z",
+    "updated_at": "2026-11-23T06:38:01.789Z"
+  }
+]
